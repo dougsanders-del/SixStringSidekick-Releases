@@ -4,6 +4,21 @@
         <title>Six String Sidekick</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Sat, 07 Nov 2026 13:11:02 -0500</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/SixStringSidekick-0.2.0-24.html</sparkle:releaseNotesLink>
+            <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/SixStringSidekick-0.2.0-24.zip" length="4740455" type="application/octet-stream" sparkle:edSignature="sWYdc9BQhq6DRUJ/7zhp/GzbNxfNW5ldNb3Ac65eGCo2q+rsDX2+yNSt/rkqOjc8mce7IVmfpXXN51ciGMlbBA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick24-23.delta" sparkle:deltaFrom="23" length="386458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FsKJJWSlKcUkHFsWD8fkqU+X5+GLmsT28FcSoRMlo5Ba7afhmpeStjAD+OHu4TgKdlBYQ+APAmnACB0fGDQvDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick24-22.delta" sparkle:deltaFrom="22" length="468954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rO+P3BjGehsopbXPezlvajWasXt6XKqr3GY9O8yJuwxbh0Df7O0iVIx4jOHGCZqGH66dX7bB/CTembWIY7kVDA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick24-20.delta" sparkle:deltaFrom="20" length="532162" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZAB7LkGaPWClVivhD/PGdTHS0YTKM5t6KQUeB6/kfIPcHsL2dhfFhN8fV96OMNpynimvv86PJIWHZPNy/utDCQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick24-19.delta" sparkle:deltaFrom="19" length="534594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Rj5zdEknuXUcuUoy8dEh+JGxMQXCqKeBEb68WhPoclTNqysMl/v6I6koNHERq1zRapYCgi/OjGYZd1uXz/RyCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Sat, 07 Nov 2026 12:25:11 -0500</pubDate>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
