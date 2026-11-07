@@ -4,6 +4,17 @@
         <title>Six String Sidekick</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Sat, 07 Nov 2026 10:29:13 -0500</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/SixStringSidekick-0.2.0-20.zip" length="4578751" type="application/octet-stream" sparkle:edSignature="5Kqi9gDIjW6G70r4sWgPZIvhb9+FRNbIhAbj5IsrYJ4gXNoKMh0kApoBQWdNfInc2aL+/1zlwQMKszQu9MdJAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick20-19.delta" sparkle:deltaFrom="19" length="156826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vpXxRflNQ7ljBDydLm0cwFwLO23fpnUbDWKi/xP2EIbpm15DG3V1e35whiCwaqk2uqepYsz36zNodfjw8hBtCw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Sat, 07 Nov 2026 10:16:50 -0500</pubDate>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
