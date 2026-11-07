@@ -9,9 +9,6 @@
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/SixStringSidekick-0.2.0-18.zip" length="5126373" type="application/octet-stream" sparkle:edSignature="BunIY2LL3pj8ntY7oY9pbt9d69ndJF7zlS+W5WGYVFgdsfIX+iy6GKSDWssIsk0wF8cZyTlsVP/Z/ngjsOUjDQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick18-17.delta" sparkle:deltaFrom="17" length="314750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P8cEEf0BcuhHnFCmoZk2gMMx0mhe0mRAER71xeiAI3V6Q6Rahuvu1eIdjCbkdSeEg+uK0m1FIi1Lme9kqBa4DQ=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
