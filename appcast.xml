@@ -4,6 +4,31 @@
         <title>Six String Sidekick</title>
         <item>
             <title>0.2.0</title>
+            <pubDate>Sun, 08 Nov 2026 09:00:31 -0500</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/SixStringSidekick-0.2.0-26.zip" length="5031209" type="application/octet-stream" sparkle:edSignature="TbW58BA3WFdkdmczdoeKNWQNpMXS4teximvEsa7EaifSyLjliWORBxATVUFAcwsP1+vwy23bugCU/EoQMlevBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick26-24.delta" sparkle:deltaFrom="24" length="795886" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2JzHGWFPtOg8f13qzKSrAQ7mM0txaqWv4eHGRn0fMkzdxWTPOhBuG8EnnrJUCRGpFjOVnzESfBxMnAgZs7FRBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick26-23.delta" sparkle:deltaFrom="23" length="866614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5lX2F+KZTHYk/uqeG5moiGbNifA5CZ5HexCyZ0B4M0XuqiA6hc9t91K0CDGricGE8oR5GUNSHYeWODfj7Ne1Dw=="/>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick26-22.delta" sparkle:deltaFrom="22" length="922542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QhaxYG0mkAp94QsoxDnmNVvHNiENFiiucNTdhCCdCnaMec6ntbuhVnXuQj9gGCB0Pq/KhwsT/T6POS52WM0NAA=="/>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick26-20.delta" sparkle:deltaFrom="20" length="968062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YCdHiBSQYDTS/uXFnbCPCzmRigz7Toc7h6VoBZFZTrQxyPoeM5YFTBD4YcJcFnPf258rlm3moP8dr6jUHFCLDg=="/>
+                <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick26-19.delta" sparkle:deltaFrom="19" length="967442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YGG1dcz5cMy3kvW2GzJZqarQDkUU8Ws4Z5NVWcBILTWUXXPnuUqpOu4YplgL5eIK3LVvH/UcnWmRGAvgH34wAw=="/>
+            </sparkle:deltas>
+            <description><![CDATA[<h2>Six String Sidekick 0.2.0 (26)</h2>
+<h3>New in builds 25 and 26</h3>
+<ul>
+<li><b>Guitar or Bass, throughout the app:</b> switch on Home, from the instrument control at the top of tool screens, or from the Mac Instrument menu. Bass supports 4, 5 or 6 strings, bass tunings, correctly sized fretboards and tab staves, and root, fifth, octave and arpeggio positions in Chord Finder.</li>
+<li><b>Microphone tuner:</b> guitar and bass tuning presets, including bass Drop D, with pitch detection down to low B.</li>
+<li><b>Chord Progression Builder:</b> choose a key and style, tap chords to build a progression, use Suggest for familiar patterns, and see what fits next. Transpose, view capo shapes, loop playback at 60–180 bpm, copy the progression, or save it into a song. Works with Guitar or Bass.</li>
+<li><b>Updated offline Help and User Manual</b> cover both new tools and the instrument switch. Existing songs stay unchanged; the app starts on Guitar.</li>
+</ul>
+<p>Requires macOS 14 or newer. Universal for Apple Silicon and Intel. This personal test build is ad-hoc signed, not Apple-notarized. Microphone tuning and progression playback have automated coverage but still need real-instrument and speaker listening checks.</p>
+]]></description>
+        </item>
+        <item>
+            <title>0.2.0</title>
             <pubDate>Sat, 07 Nov 2026 13:11:02 -0500</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
@@ -53,14 +78,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/Six%20String%20Sidekick20-19.delta" sparkle:deltaFrom="19" length="156826" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="941872" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vpXxRflNQ7ljBDydLm0cwFwLO23fpnUbDWKi/xP2EIbpm15DG3V1e35whiCwaqk2uqepYsz36zNodfjw8hBtCw=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.2.0</title>
-            <pubDate>Sat, 07 Nov 2026 10:16:50 -0500</pubDate>
-            <sparkle:version>19</sparkle:version>
-            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/dougsanders-del/SixStringSidekick-Releases/main/SixStringSidekick-0.2.0-19.zip" length="4579075" type="application/octet-stream" sparkle:edSignature="oiBpmxWifhUWI2R3BpxqohiJrak/Q7dFlWEX9T1ouFd1GImQ43ZLe+nOS8cXbwtrlTrwqRwncBYBUoCK7kbLAg=="/>
         </item>
     </channel>
 </rss>
